@@ -4,9 +4,9 @@ using namespace std;
  
 int main() {
 
-string a;
+string ab;
 double b,c;
-cin >> a;
+cin >> ab;
 cin >> b >> c;
 
 b = b + c * 0.15;
